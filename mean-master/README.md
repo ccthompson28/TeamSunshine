@@ -2,6 +2,7 @@
 Caroline Thompson
 Duncan Long
 Tina Chapman
+Mel Louie
 
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
